@@ -10,3 +10,5 @@ while attempt<3:
         attempt+=1
 if attempt==3:
     print("account locked")
+    
+    # Very good, your code is fine
