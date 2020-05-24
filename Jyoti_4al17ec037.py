@@ -8,3 +8,13 @@ while attempt<3:
         attempt+=1
         print("invalid username or password")
 print("account locked")
+
+# your code has bug, after successful login, again it is asking credentials
+enter the username:Micheal
+Micheal
+enter the password:e3$WT89x
+e3$WT89x
+you have successfully logged in
+enter the username:sd
+sd
+enter the password:
