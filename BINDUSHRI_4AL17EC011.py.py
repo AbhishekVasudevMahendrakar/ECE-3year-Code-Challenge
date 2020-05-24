@@ -15,3 +15,5 @@ if credential == 'e3$WT89x' and name == 'Micheal':
     print("your login is succesfull")
 if flag==2:
     print("account locked")
+    
+    # your code is entering in to infinite loop, fix the bug
