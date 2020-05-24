@@ -14,6 +14,8 @@ while count <3:
             print("you loged in succesfully")
     if count==3:
         print("account locked")
+        
+        # your code is working fine, but after successful login it is not returning to shell command
             
 
 
