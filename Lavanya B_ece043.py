@@ -12,3 +12,5 @@ for i in range(3):
         break
 if (flag == 0):
     prin("account locked")
+    
+    # Your code doesnot have proper sequence, fix the bug
