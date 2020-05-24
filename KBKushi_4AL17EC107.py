@@ -20,3 +20,5 @@ while noOfAttempts < 3:
         #if the number of attempts exceeds 3 it prints the message below
     if noOfAttempts == 3 :
         print("Account Locked")
+        
+        # Very good, very systamatic approch. code is working finr
