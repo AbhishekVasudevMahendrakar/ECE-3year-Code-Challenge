@@ -8,7 +8,7 @@ while count<3:
    	 count+=1
    	 print("Invalid username and password")
    	 if count==3:
-      	print("Account Locked")
+      	    print("Account Locked")
         
         # your code has syntax error, fixt the bug
         
