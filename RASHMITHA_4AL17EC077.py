@@ -13,3 +13,11 @@ while count < 3:
         
     if count==3:
         print('Account locked.' )
+        
+        # your code has bug, after successful login, again it is asking for credentials
+        Enter correct username and password  to continue
+Enter username: Micheal
+Enter password: e3$WT89x
+e3$WT89x
+login successful
+Enter username: 
